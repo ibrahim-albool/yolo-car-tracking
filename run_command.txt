@@ -1,0 +1,5 @@
+C++:
+a single image:
+    ./car_tracking_yolo --image=bird.jpg
+a video file:
+    ./car_tracking_yolo --video=run.mp4
