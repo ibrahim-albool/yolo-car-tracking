@@ -3,4 +3,4 @@ In this project You Only Look Once (Yolo) algorithm is trained on a custom datas
 
 Watch the video:
 
-[![Watch the video](snapshoot.PNG)](https://drive.google.com/file/d/1WuPz-HeNsho1FbaizMGJEomC-PfUIzO6/view?usp=sharing)
+[![Watch the video](snapshoot.PNG)](https://drive.google.com/file/d/1Wr46sX_ao1tqmu519xOoiqLTMrj23YgF/view?usp=sharing)
